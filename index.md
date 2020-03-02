@@ -1,5 +1,15 @@
 ## David B. Steimle
 
+SCCM Application Development and Scripting Lead.
+
+| | |
+| ---: | :--- |
+| Email | [davidsteimle@gmail.com](mailto:davidsteimle@gmail.com) |
+| Twitter | [@dbsteimle](https://twitter.com/dbsteimle) |
+| Home Page | [davidsteimle.net](https://davidsteimle.net) |
+
+-----
+
 You can use the [editor on GitHub](https://github.com/davidsteimle/davidsteimle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
